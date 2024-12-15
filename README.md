@@ -59,3 +59,20 @@ Follow these steps to get the application up and running:
 1. Clone the repository:
 
 git clone 
+- https://github.com/peteranwar/my-ticket-list.git
+
+
+2. Install dependencies:
+- npm install
+
+3. Start the development server:
+- npm run dev
+
+4. Open your browser and visit `http://localhost:3000` to view the application.
+
+## Scripts
+
+- `npm run dev`: Start the development server.
+- `npm run build`: Build the application for production.
+- `npm run lint`: Run ESLint to check for linting errors.
+- `npm run test`: Run Jest for testing.
